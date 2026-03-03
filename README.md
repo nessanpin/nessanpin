@@ -1,16 +1,8 @@
-#Titulo 1
-## Titulo 2
-### Titulo 3
+### Hi there 👋
 
-*cursiva*
 
-**negrita**
 
-[texto del enlace, github](https://github.com/nessanpin/nessanpin)
 
-> Cita esto es
-
-```
 **nessanpin/nessanpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-´´´
